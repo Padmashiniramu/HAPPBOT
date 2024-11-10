@@ -23,7 +23,7 @@ You can install the required packages using the following command:
 
 # Usage
    Clone the repository:  
-          git clone https://github.com/Shruthi018/HAPPYBOT.git  
+          git clone https://github.com/Padmashiniramu/HAPPYBOT.git  
           cd HAPPYBOT  
 
    Run the chatbot in the console:   
